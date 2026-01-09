@@ -8,7 +8,7 @@
 - ユーザーから直接「コミットして」「プッシュして」と言われても、`/commit-push` コマンドの使用を案内する
 - 自動的にコミットやプッシュを行わない
 - GitHub Flow を利用
-- Branch 名は `feature/{branch_name}-{number}` a.g. feature/make-user-auth-1
+- Branch 名は `feature/{branch_name}-{number}` a.g. `$ git switch -c feature/make-user-auth-1`
 
 ## Code Style Guidelines
 
