@@ -5,5 +5,10 @@
       "Read(./.env.*)",
       "Read(./secrets/**)"
     ]
+  },
+  "statusLine": {
+    "type": "command",
+    "command": "./.claude/statusline.js",
+    "padding": 0
   }
 }
